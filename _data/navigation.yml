@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+   #- title: "Publications"
+    # url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Araştırmalar"
+    url: /arastırmalar/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Temel analiz"
+    url: /temel analiz/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "teknik analiz"
+    url: /teknik analiz/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Türkiye ekonomisi"
+    url: /turkiye ekonomisi/
     
-  - title: "CV"
-    url: /cv/
+  - title: " yatırım ve trade stratejileri"
+    url: /yatırım ve trade stratejileri/
     
-  - title: "Guide"
+  - title: "şirket bilgileri"
     url: /markdown/
